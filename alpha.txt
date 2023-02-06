@@ -1,1 +1,2 @@
-hello! making change
+hello! Developer B
+>>>>>>> 7b4a1c7 (Commit by dev B)
